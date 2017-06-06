@@ -1,0 +1,100 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1012" measuredH="874" mockupW="597" mockupH="810">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="415" y="64" w="597" h="810" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>A%20Web%20Page%0Ahttp%3A//</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::MenuBar" x="415" y="135" w="593" h="29" measuredW="403" measuredH="29" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>0</selectedIndex>
+        <text>%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Branding%2C%20%7C%20Production</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::LinkBar" x="451" y="179" w="-1" h="-1" measuredW="539" measuredH="19" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>0</selectedIndex>
+        <text>Promotional%20Items%2C%20Conrefence%20materials%2C%20Digital%20and%20offset%20printing%2CGeneral%20Supplies</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Paragraph" x="451" y="367" w="270" h="80" measuredW="200" measuredH="80" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <text>We%20supply%20a%20wide%20variety%20of%20branded%20promotional%20items%20which%20include%3A%0AUmbrellas%20%0AT%20shirts%0ACaps%0AKey%20holders%0AMugs%0APens%2C%20etc</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Image" x="451" y="213" w="179" h="136" measuredW="720" measuredH="471" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./images/promotion_products.jpg</src>
+        <text>promotional%20items</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Canvas" x="415" y="481" w="597" h="118" measuredW="100" measuredH="70" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16750848</color>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Canvas" x="672" y="213" w="333" h="272" measuredW="100" measuredH="70" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <color>13576743</color>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Paragraph" x="679" y="224" w="318" h="251" measuredW="200" measuredH="80" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Solutions%20Media%20Productions%20is%20a%20marketing%20support%20and%0Abranding%20company%20that%20specializes%20in%20supplying%20of%20%20marketing%0Amaterials%2C%20photography%2C%20video%20coverage%20and%20general%20office%0Asupplies.%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Paragraph" x="430" y="510" w="-1" h="-1" measuredW="200" measuredH="80" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>127%0AProjects%0ACompleted</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Paragraph" x="583" y="507" w="-1" h="-1" measuredW="200" measuredH="80" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>98%25%0D%0ACustomer%20satisfaction%0D%0A</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Paragraph" x="799" y="505" w="-1" h="-1" measuredW="200" measuredH="80" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>2%20%0D%0AProjects%0D%0AOn%20going%0D%0A</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Label" x="430" y="605" w="-1" h="-1" measuredW="56" measuredH="21" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Client%20list</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Image" x="436" y="626" w="131" h="64" measuredW="400" measuredH="400" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./images/kenya-re.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Image" x="567" y="626" w="157" h="63" measuredW="1038" measuredH="467" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./images/daystar.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Image" x="736" y="627" w="147" h="49" measuredW="282" measuredH="79" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./images/kemsa.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Image" x="903" y="626" w="87" h="50" measuredW="357" measuredH="296" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./images/Jomo_Kenyatta_University_Logo.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Canvas" x="415" y="705" w="597" h="143" measuredW="100" measuredH="70" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13576743</color>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Paragraph" x="430" y="741" w="188" h="118" measuredW="200" measuredH="80" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>9</size>
+        <text>Hatheru%09Road%2C%09%2C%09Off%09Gitanga%09Road%2C%09Lavington%0AMobile%3A%090711%09349%09771%2C%090734%09928%09432%0AEmail%3A%09info@solutionsmediaproductions.co.ke%0Amurugiimmaculate@gmail.com%0AWeb%3A%09www.solutionsmediaproductions.co.ke</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
