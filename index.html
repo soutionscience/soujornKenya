@@ -1,29 +1,45 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+
 <link rel="stylesheet" type="text/css" href="css/main.css">
-<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+<!-- <link href="https://fonts.googleapis.com/css?family=Delius" rel="stylesheet"> -->
 <!-- libs -->
 <script src="js/angular.min.js"></script>
 <script src="js/angular-route.min.js"></script>
+<script src="js/angular-ui-router.min.js"></script>
 
 <script src="js/app.js"></script>
+<script src="js/controllers/main.controller.js"></script>
+
+<script src="js/routes.js"></script>
 
 <!-- directives
  -->
  <script src="js/directives/main-menu/mainMenu.directives.js"></script>
-  <script src="js/directives/secondary-menu/secondaryMenu.directive.js"></script>
+  <script src="js/directives/main-packages/mainPackages.directive.js"></script>
+  <script src="js/directives/main-footer/myfooter.directive.js"></script>
+    <script src="js/directives/terms-conditions/ourTerms.directive.js"></script>
 
 
 
-	<title>SMP</title>
+
+
+
+	<title>SOUJOURN KENYA</title>
 </head>
 <body ng-app="myApp">
-
+<div class="mainBanner" ng-controller="mainCtrl">
 <main-menu></main-menu>
+</div>
+ <ui-view></ui-view>
 
-<secondary-menu></secondary-menu>
 
+<my-footer></my-footer>
 
 </body>
 </html>

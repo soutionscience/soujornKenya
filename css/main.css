@@ -1,10 +1,56 @@
- body { font-family: 'Lato', sans-serif; padding: 0px; margin: 0px;}
+ body { font-family:'Delius', cursive; font-size: 15px; padding: 0px; margin: 0px;}
 
-.mainMenu{ position: static;}
-.mainMenu a,span {color:rgb(249, 155, 28); text-decoration: none; padding-left: 4px; }
-.mainMenu .menu { margin-bottom: 20px;position: relative; bottom: 30px; left: 25%; }
+ .mainBanner{
+ 	background-image: url('/images/banner2.jpg');
+ 	background-repeat: no-repeat;background-size:100%;
 
-.secondaryMenu{position: static; width: 100%; height: 25px; background-color: rgb(163, 13, 17); 
-	           color: white; padding: 8px;}
-.secondaryMenu .menu{ position: relative;left: 25% }
-.secondaryMenu a{color: white; text-decoration: none;}
+	width: 100%;
+	height: 400px;
+	position: static;
+ }
+
+ .mainMenu{ position: relative; left: 25%;top: 10px; font-size: 1.2em; }
+ .mainMenu .menu a,span{ color: white; padding-left: 8px; }
+
+.packages{width: 100%;}
+ .packages .pack{
+ 	width: 350px; height: 250px; margin-left: 10px; margin-top: 10px; 
+ }
+.packages .image { display: block; width: 100%;height: auto;   border: 1px solid #3F0C1F;
+  overflow: hidden; border-radius: 5px; }
+.packages .text {
+  white-space: nowrap; 
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  overflow: hidden;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+}
+.packages .overlay {position: absolute; bottom: 0; left: 0; right: 0;  background-color: #008CBA; overflow: hidden; width: 100%;
+  height: 0;  transition: .5s ease;
+  border: 0.01px solid white; border-radius: 5px;
+
+ }
+
+
+ .packages .pack:hover .overlay {
+  height: 100%;
+  
+}
+
+.myFooter{
+  background-color: #008CBA;
+  color: white;
+  
+}
+
+.terms-and-conditions {
+  background-color: #BDBDBD;
+  font-size: 10px;
+  color: white;
+}
+.artirery{padding-bottom: 8px;}
+.artirery  h3,h4, h5{font-weight: bold;}
