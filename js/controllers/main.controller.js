@@ -1,12 +1,22 @@
-app.controller('mainCtrl', function($scope, $http){
+(function(){
+angular.module("myApp")
 
-	
 
-	$http.get('data.json').then(function(result){
-		
+.controller('mainCtrl', mainCtrl );
 
-		$scope.dataset= result.data;
-		
-	})
-	
-})
+	 mainCtrl.$inject = ['$scope', 'packageService'];
+
+	 function mainCtrl($scope, packageService){
+	 	
+
+	 	$scope.dataset =[];
+	 	this.$onInit = function(){
+	 		packageService.getItems().then (function(result){
+	 			$scope.dataset= result;
+	 			
+	 		})
+	 	}
+	 }
+
+
+})();

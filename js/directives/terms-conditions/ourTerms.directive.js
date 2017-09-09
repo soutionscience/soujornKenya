@@ -1,4 +1,5 @@
-app.directive('ourTerms',function(){
+(function(){
+angular.module("myApp").directive('ourTerms',function(){
 	// Runs during compile
 	return {
 		// name: '',
@@ -18,3 +19,4 @@ app.directive('ourTerms',function(){
 		}
 	};
 });
+})();

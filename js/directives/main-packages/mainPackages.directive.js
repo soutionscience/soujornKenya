@@ -1,4 +1,5 @@
-app.directive('mainPackages', function(){
+(function(){
+angular.module("myApp").directive('mainPackages', function(){
 	// Runs during compile
 	return {
 		// name: '',
@@ -18,3 +19,4 @@ app.directive('mainPackages', function(){
 		}
 	};
 }); 
+})();

@@ -1,4 +1,5 @@
-app.config(['$stateProvider', '$urlRouterProvider',function($stateProvider, $urlRouterProvider) {
+(function(){
+angular.module("myApp").config(['$stateProvider', '$urlRouterProvider',function($stateProvider, $urlRouterProvider) {
 
 	 $urlRouterProvider.otherwise('/home');
 
@@ -25,4 +26,5 @@ app.config(['$stateProvider', '$urlRouterProvider',function($stateProvider, $url
 	// });
 
 	
-}])
+}]);
+})();

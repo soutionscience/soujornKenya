@@ -1,4 +1,5 @@
-app.directive('mainMenu', function(){
+(function(){
+angular.module("myApp").directive('mainMenu', function(){
 	// Runs during compile
 	return {
 		// name: '',
@@ -18,3 +19,4 @@ app.directive('mainMenu', function(){
 		}
 	};
 }); 
+})();

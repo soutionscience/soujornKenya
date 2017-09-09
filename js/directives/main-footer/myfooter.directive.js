@@ -1,4 +1,7 @@
-app.directive('myFooter', function(){
+(function(){
+
+
+angular.module("myApp").directive('myFooter', function(){
 	// Runs during compile
 	return {
 		// name: '',
@@ -18,3 +21,4 @@ app.directive('myFooter', function(){
 		}
 	};
 });
+})();
