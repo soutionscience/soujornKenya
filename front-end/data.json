@@ -1,0 +1,199 @@
+[
+{
+
+  "Day1":{
+    "Package": "(7 DAYS) NAIROBI - MAASAI MARA NATIONAL RESERVE - LAKE NAKURU -  AMBOSELI",
+    "Place": "Day 1 Nairobi",
+      "Intro": "Upon arrival into Nairobi, you will be met and transferred to the Safari Park Hotel. Afternoon at leisure.Overnight at the Safari Park Hotel on a bed and breakfast basis",
+      "image": "images/intinery pics/Safari-park-Rooms.jpg",
+      "hotel": "Safari Park Hotel",
+      "Description": "Situated only 10km from the Nairobi City Centre and 20km from the International Airport, the lively Safari Park Hotel is really an African-theme resort providing deluxe accommodation in 64 acres of beautifully landscaped gardens and indigenous forest. All of the 204 distinctively designed and decorated rooms are airy and contain television, private bathroom facilities and private balconies."
+    },
+    "Day2":{
+      "Place": "Day 2 Nairobi - Maasai Mara National Reserve",
+      "Intro": "Leaving Nairobi after breakfast, you'll travel towards Kenya's fertile highlands and head down the Rift Escarpment on a road built by Italian prisoners of war during World War II. Look for the charming chapel they built at the foot of the escarpment. You'll pass the impressive Longonot earth satellite station as you head across the Valley to Narok, and then travel across acres of wheat and barley, before you reach the Maasai Mara and your lodge in time for lunch. There will be an afternoon game drive. Overnight at Mara Sopa Lodge on a full board basis.",
+      "image": "images/intinery pics/maasai-mara.jpg",
+      "hotel": "Mara Sopa Lodge",
+      "Description": "The lodge is set in the Oloolaimutia Valley and built into the surrounding hillside landscape. The accent around the lodge is on the indigenous Maasai people and the fabulous wealth of wildlife, birdlife and natural flora seen in every direction. The lodge is luxuriously appointed with all the mod cons one would expect from a Sopa styled lodge in the bush. The bedrooms are spacious, the large pool has wonderful views and there’s evening wildlife films and CNN to enjoy during the down-time. All this ensures that your stay will be blissfully comfortable."
+    },
+    "Day3":
+    {
+      "Place": " Day 3 Maasai Mara National Reserve",
+      "Intro": "Early morning and afternoon game drives.",
+      "image": "images/intinery pics/maasai-mara-2.jpg",
+      "hotel": "",
+      "Description": "Overnight at Lodge on a full board basis."
+    },
+    "Day4":{
+      "Place": "Day 4 Maasai Mara – Lake Nakuru",
+      "Intro": "Leaving the Maasai Mara after breakfast, you'll travel across the ‘breadbasket’ of Kenya, where acres of wheat and barley litter the landscape as you head north to Narok, the district headquarters of this part of Maasailand. Now travel across the vast plains on the floor of the Rift Valley, keeping an eye out for herds of giraffe and gazelle as you head up the Mau Escarpment, before arriving at Lake Nakuru. The waters here are often colored shimmering flamingo pink, from thousands of the beautiful birds lining its shores. After lunch at Lake Nakuru Lodge, depart for an afternoon game drive in Nakuru National Park before continuing to the lodge for dinner and overnight.               Overnight at Lake Nakuru Lodge on a full board basis.",
+      "image": "images/intinery pics/lake-nakuru.jpg",
+      "hotel": "Lake Nakuru Lodge",
+      "Description": "Lake Nakuru Lodge is situated in the heart of one of Kenya's most densely populated wetland National Parks, (Ramsar site) only two leisurely hours' drive from Nairobi, through beautiful forested uplands and passing a series of lakes. On the outskirts of the bustling market town of Nakuru lies a truly remarkable national park which has achieved international fame. Both black and white rhino are being given a new lease of life in this 188 sq km, fully-fenced park - and they are carefully protected. The present rhino population is over 50 and continuing to multiply. The Rothschilds giraffe is another rarity and the park has its fair share of buffalo, leopard, zebra, eland, waterbuck and lion. Lake Nakuru Lodge is in the south-east ecological niche of the park, with commanding views of the lake and the flamingos for which it is justly famous. Lush gardens surround the lodge and cottages. There is a good programme of activities and evening entertainment."
+    },
+
+    "Day5":{
+       "Place": "Day 5 Lake Nakuru - Amboseli National Park",
+      "Intro": "After an early breakfast you will depart with a picnic lunch, leaving the Rift Valley behind, you continue towards Nairobi and then head south towards Ol Tukai Lodge. Then proceed with afternoon game drive in the park enroute to the Amboseli arriving in the evening.Overnight at Ol Tukai Lodge on a full board basis.",
+      "image": "images/intinery pics/amboseli.jpg",
+      "hotel": "Ol Tukai Lodge",
+      "Description": "Overnight at Ol Tukai Lodge on a full board basis."
+    },
+
+    "Day 6" :{
+      "Place": "Day 6 Amboseli National Park",
+      "Intro": "Morning and afternoon game drives in Amboseli, returning to the lodge as the sun sets.Overnight at Lodge on a full board basis.",
+      "image": "images/intinery pics/amboseli-2.jpg",
+      "hotel": "",
+      "Description": "Overnight at Lodge on a full board basis"
+    },
+
+    "Day 7": {
+      "Place": "Day 7 Amboseli – Nairobi",
+      "Intro": "Following an early breakfast, you’ll catch your last views of the majestic Mount Kilimanjaro as you depart Amboseli viewing game en route to the border of the park. From here turn west to the colorful border town of Namanga, where you will find some unique Maasai beadwork. ",
+      "image": "images/intinery pics/amboseli-4.jpg",
+      "hotel": "",
+      "Description": " Then turn north along a good tarmac road across the beautiful and seemingly never ending Athi Plains, arriving in Kenya's bustling capital city of Nairobi by mid-da"
+    }
+},
+
+
+{
+
+  "Day1":{
+    "Package": "(8 DAYS) NAIROBI – ABERDARES – SAMBURU – SWEETWATER - NAKURU – MAASAI MARA ITINERARY",
+    "Place": "Day 1 Nairobi",
+      "Intro": "Upon arrival into Nairobi, you will be met and transferred to the Safari Park Hotel. Afternoon at leisure. Overnight at the Safari Park Hotel on a bed and breakfast basis.",
+      "image": "images/intinery pics/Safari-Park-Hotel-2.jpg",
+      "hotel": "",
+      "Description": ""
+    },
+    "Day2":{
+      "Place": "Day 2 Nairobi to Aberdares",
+      "Intro": "Overnight Ark lodge Meals: Breakfast, Lunch & Dinner.",
+      "image": "images/intinery pics/Aberdare-National-Park-2.jpg",
+      "hotel": "Mara Sopa Lodge",
+      "Description": "Have breakfast and immediately depart for Aberdares  to arrive at lunch time. Lunch will be served at Aberdares Country Lodge. Later enjoy a game drive as you drive to the Ark Lodge for dinner and overnight stay. At the lodge you will enjoy game viewing at the deck overlooking a waterhole."
+    },
+    "Day3":
+    {
+      "Place": "Day 3: Aberdares to Samburu ",
+      "Intro": "Overnight: Sopa Lodge Samburu Meals: Breakfast, Lunch & Dinner.",
+      "image": "images/intinery pics/samburu-sopa-lodge.jpg",
+      "hotel": "Sopa Lodge Samburu",
+      "Description": "Have breakfast and immediately depart for Samburu National Park. Arrive with a short game drive en route to the camp for lunch. After lunch, relax before a game drive at 4p.m. Samburu Park has unique residents including the Reticulated Giraffe, Grevy’s Zebra, Beisa Oryx and the Blue legged Somali Ostrich"
+    },
+    "Day4":{
+      "Place": "Day 4: Samburu – Transfer to Sweetwaters",
+      "Intro": "Overnight: Sweetwater LodgeMeals: Breakfast, Lunch & Dinner.",
+      "image": "images/intinery pics/Sweetwater-National-Park-2.jpg",
+      "hotel": "Sweetwater",
+      "Description": "Depart Samburu after breakfast arriving in time for lunch at Sweetwaters Wildlife Sanctuary. This is a beautiful private game reserve and home to rare species such as Beisa oryx, Rothschild's giraffe and black rhino. Game drives here reveal the full range of African wildlife including lion, leopard, cheetah, elephant and hippo. Enjoy a private visit with the tame animals at the wildlife orphanage. Observe chimps at the Chimpanzee Sanctuary as well."
+
+    },
+
+    "Day5":{
+       "Place": "Day 5: Sweetwater to Lake nakuru",
+      "Intro": "Leaving the Sweetwater after breakfast, you'll travel across the ‘breadbasket’ of Kenya, where acres of wheat and barley litter the landscape as you head north to Narok, the district headquarters of this part of Maasailand. Now travel across the vast plains on the floor of the Rift Valley, keeping an eye out for herds of giraffe and gazelle as you head up the Mau Escarpment, before arriving at Lake Nakuru. The waters here are often coloured shimmering flamingo pink, from thousands of the beautiful birds lining its shores. After lunch at Lake Nakuru Lodge, depart for an afternoon game drive in Nakuru National Park before continuing to the lodge for dinner and overnight. Overnight at Lake Nakuru Lodge on a full board basis.",
+      "image": "images/intinery pics/Lake-Nakuru-3.jpg",
+      "hotel": "Lake Nakuru Lodge",
+      "Description": "Lake Nakuru Lodge is situated in the heart of one of Kenya's most densely populated wetland National Parks, (Ramsar site) only two leisurely hours' drive from Nairobi, through beautiful forested uplands and passing a series of lakes. On the outskirts of the bustling market town of Nakuru lies a truly remarkable national park which has achieved international fame. Both black and white rhino are being given a new lease of life in this 188 sq km, fully-fenced park - and they are carefully protected. The present rhino population is over 50 and continuing to multiply. The Rothschilds giraffe is another rarity and the park has its fair share of buffalo, leopard, zebra, eland, waterbuck and lion. Lake Nakuru Lodge is in the south-east ecological niche of the park, with commanding views of the lake and the flamingos for which it is justly famous. Lush gardens surround the lodge and cottages. There is a good program of activities and evening entertainment."
+    },
+
+    "Day 6" :{
+      "Place": "Day 6: Lake Nakuru – Transfer to Maasai Mara",
+      "Intro": "After breakfast leave Lake Nakuru for Maasai Mara arriving in time for lunch. You will have a game drive as you head to the camp for lunch. Another game drive will be at 4p.m. Look out for Lion, Cheetah, Elephant, Buffalo.",
+      "image": "images/intinery pics/sopa2.jpg",
+      "hotel": "SOPA Lodge",
+      "Description": "Overnight at Lodge on a full board basis"
+    },
+
+    "Day 7": {
+      "Place": "Day 7: Maasai Mara – Full day game drives",
+      "Intro": "This whole day will be spent with morning and afternoon game drives that lead one to some of Africa's largest lion prides, herds of zebra, antelopes, buffaloes, wildebeest, giraffes, cheetahs, and hyenas. In between game drives, there will be picnic lunch along the banks of Mara River. ",
+      "image": "images/intinery pics/sopa3.jpg",
+      "hotel": "SOPA Lodge",
+      "Description": " Overnight at Lodge on a full board basis"
+    }
+},
+
+{
+
+  "Day1":{
+    "Package": "(11 DAYS) NAIROBI – SAMBURU- SWEETWATER - ABERDARES – LAKE NAKURU – MAASAI MARA – MOMBASA ITINERARY",
+    "Place": "Day 1: Nairobi – Transfer to Samburu",
+      "Intro": "You will be picked from your Nairobi hotel by our driver. Immediately depart for Samburu passing through the equator line to Samburu land. Arrive with a short game drive en route to the camp for lunch. After lunch, relax before a game drive at 4p.m. Samburu Park has unique residents including the Reticulated Giraffe, Grevy’s Zebra, Beisa Oryx and the Blue legged Somali Ostrich.",
+      "image": "images/intinery pics/samburu1.jpg",
+      "hotel": "Hotel/Lodge",
+      "Description": "meals: Lunch & Dinner"
+    },
+    "Day2":{
+      "Place": "Day 2: Samburu – Full day",
+      "Intro": "Enjoy morning and afternoon game drives in search of unique northern Kenya species such as the reticulated giraffe, beisa oryx, Grevy's zebra, and the long-necked gerenuk. Much of the reserve consists of desert landscape; dusty red plains broken by thorny scrub, featuring dramatic views of table top Mt Ol Olokwe on the horizon. All meals are taken at the camp.",
+      "image": "images/intinery pics/samburu2.jpg",
+       "hotel": "Hotel/Lodge",
+      "Description": "meals: Lunch & Dinner"
+    },
+    "Day3":
+    {
+      "Place": "Day 3: Samburu – Transfer to Sweetwaters",
+      "Intro": "Depart Samburu after breakfast arriving in time for lunch at Sweetwaters Wildlife Sanctuary. This is a beautiful private game reserve and home to rare species such as Beisa oryx, Rothschild's giraffe and black rhino. Game drives here reveal the full range of African wildlife including lion, leopard, cheetah, elephant and hippo. Enjoy a private visit with the tame animals at the wildlife orphanage. Observe chimps at the Chimpanzee Sanctuary as well.",
+      "image": "images/intinery pics/sweetwaters-tented-camp.jpg",
+      "hotel": "Hotel/Lodge",
+      "Description": "meals: Lunch & Dinner"    
+    },
+    "Day4":{
+      "Place": "Day 4: Sweetwaters – Transfer to Aberdares",
+      "Intro": "Have breakfast and immediately depart for Aberdares to arrive at lunch time. Lunch will be served at Aberdares Country Lodge. Later enjoy a joint game drive as you drive to The Ark lodge for dinner and overnight stay. At the lodge you will enjoy game viewing at a deck overlooking a waterhole.",
+      "image": "images/intinery pics/Aberdare-National-Park-2.jpg",
+       "hotel": "Hotel/Lodge",
+      "Description": "meals: Lunch & Dinner"        
+
+    },
+
+    "Day5":{
+       "Place": "Day 5: Aberdares – Transfer to Lake Nakuru",
+      "Intro": "Have breakfast then depart for Lake Nakuru arriving before lunch time. Later afternoon game drive to see one of the largest ornithological spots, Flamingo, and a variety of wildlife not forgetting the famous white Rhino and black rhino found in this park.",
+      "image": "images/intinery pics/Lake-Nakuru-3.jpg",
+      "hotel": "Hotel/Lodge",
+      "Description": "meals: Lunch & Dinner"  
+    },
+
+    "Day 6" :{
+      "Place": "Day 6: Lake Nakuru – Transfer to Maasai Mara",
+      "Intro": "After breakfast leave Lake Nakuru for Maasai Mara arriving in time for lunch. You will have a game drive as you head to the camp for lunch. Another game drive will be at 4p.m. Look out for Lion, Cheetah, Elephant, Buffalo.",
+      "image": "images/intinery pics/sopa2.jpg",
+      "hotel": "SOPA Lodge",
+      "Description": "Overnight at Lodge on a full board basis"
+    },
+
+    "Day 7": {
+      "Place": "Day 7: Maasai Mara – Full day game drives",
+      "Intro": "This whole day will be spent with morning and afternoon game drives that lead one to some of Africa's largest lion prides, herds of zebra, antelopes, buffaloes, wildebeest, giraffes, cheetahs, and hyenas. In between game drives, there will be picnic lunch along the banks of Mara River. ",
+      "image": "images/intinery pics/sopa3.jpg",
+      "hotel": "SOPA Lodge",
+      "Description": " Overnight at Lodge on a full board basis"
+    },
+       "Day 8":{
+       "Place": "Day 8: Maasai Mara  – Mombasa ",
+      "Intro": "Have breakfast at the camp then check out park and drive to Nairobi arriving in time for lunch. You will be dropped at the airport for a flight to Mombasa. Upon arrival in Mombasa, you will be transferred to the hotel.",
+      "image": "images/intinery pics/Masaai-Mara-3.jpg",
+      "hotel": "Hotel/Lodge",
+      "Description": "meals: Breakfast, Half Board Basis"  
+    },
+       "Day 9":{ 
+       "Place": "Day 9 & 10: Mombasa – Holla Park",
+      "Intro": "Visit to holla park Marine Park and Leisure activities",
+      "image": "images/intinery pics/Mombasa-3.jpg",
+      "hotel": "Booked Beach Hotel",
+      "Description": "Meal Plan: Half Board Basis"  
+    },
+       "Day 10":{
+       "Place": "Day 11: Mombasa – Transfer to Nairobi (By Flight)",
+      "Intro": "You will be transferred to the airport morning for your flight to Nairobi. Upon arrival, you will connect with your outbound flight.",
+      "image": "images/intinery pics/flight-3.jpg",
+      "hotel": "",
+      "Description": ""  
+    }
+}
+]
