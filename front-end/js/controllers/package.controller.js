@@ -16,13 +16,6 @@
 		console.log("what is in: " + $scope.dataset.Day1.Package)
 		// console.log("what is in: " + $scope.dataset.Day1.image)
 
-	      $scope.isThereImage = function(index) {
-	      	var day = index + '';
-	      	console.log("what is in this then: " + $scope.dataset.day.image)
-	      	console.log("we are :"+ day)
-     
-                return false;
-  
-      };
+	
 	};
 })();
