@@ -14,17 +14,15 @@
 
 		// console.log($scope.msg)
 		console.log("what is in: " + $scope.dataset.Day1.Package)
-		console.log("what is in: " + $scope.dataset.Day1.image)
+		// console.log("what is in: " + $scope.dataset.Day1.image)
 
-		var isThereImage = function(index){
-			if($scope.dataset.index.image == null){
-				console.log("are you here: " +$scope.dataset.index.image)
-				return false;
-			}
-            console.log("are you here: " +$scope.dataset.index.image)
-           return true;
-			
-		}
-
+	      $scope.isThereImage = function(index) {
+	      	var day = index + '';
+	      	console.log("what is in this then: " + $scope.dataset.day.image)
+	      	console.log("we are :"+ day)
+     
+                return false;
+  
+      };
 	};
 })();

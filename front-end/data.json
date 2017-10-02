@@ -40,7 +40,7 @@
       "Description": "Overnight at Ol Tukai Lodge on a full board basis."
     },
 
-    "Day 6" :{
+    "Day6" :{
       "Place": "Day 6 Amboseli National Park",
       "Intro": "Morning and afternoon game drives in Amboseli, returning to the lodge as the sun sets.Overnight at Lodge on a full board basis.",
       "image": "images/intinery pics/amboseli-2.jpg",
@@ -48,7 +48,7 @@
       "Description": "Overnight at Lodge on a full board basis"
     },
 
-    "Day 7": {
+    "Day7": {
       "Place": "Day 7 Amboseli – Nairobi",
       "Intro": "Following an early breakfast, you’ll catch your last views of the majestic Mount Kilimanjaro as you depart Amboseli viewing game en route to the border of the park. From here turn west to the colorful border town of Namanga, where you will find some unique Maasai beadwork. ",
       "image": "images/intinery pics/amboseli-4.jpg",
@@ -100,7 +100,7 @@
       "Description": "Lake Nakuru Lodge is situated in the heart of one of Kenya's most densely populated wetland National Parks, (Ramsar site) only two leisurely hours' drive from Nairobi, through beautiful forested uplands and passing a series of lakes. On the outskirts of the bustling market town of Nakuru lies a truly remarkable national park which has achieved international fame. Both black and white rhino are being given a new lease of life in this 188 sq km, fully-fenced park - and they are carefully protected. The present rhino population is over 50 and continuing to multiply. The Rothschilds giraffe is another rarity and the park has its fair share of buffalo, leopard, zebra, eland, waterbuck and lion. Lake Nakuru Lodge is in the south-east ecological niche of the park, with commanding views of the lake and the flamingos for which it is justly famous. Lush gardens surround the lodge and cottages. There is a good program of activities and evening entertainment."
     },
 
-    "Day 6" :{
+    "Day6" :{
       "Place": "Day 6: Lake Nakuru – Transfer to Maasai Mara",
       "Intro": "After breakfast leave Lake Nakuru for Maasai Mara arriving in time for lunch. You will have a game drive as you head to the camp for lunch. Another game drive will be at 4p.m. Look out for Lion, Cheetah, Elephant, Buffalo.",
       "image": "images/intinery pics/sopa2.jpg",
@@ -108,7 +108,7 @@
       "Description": "Overnight at Lodge on a full board basis"
     },
 
-    "Day 7": {
+    "Day7": {
       "Place": "Day 7: Maasai Mara – Full day game drives",
       "Intro": "This whole day will be spent with morning and afternoon game drives that lead one to some of Africa's largest lion prides, herds of zebra, antelopes, buffaloes, wildebeest, giraffes, cheetahs, and hyenas. In between game drives, there will be picnic lunch along the banks of Mara River. ",
       "image": "images/intinery pics/sopa3.jpg",
@@ -159,7 +159,7 @@
       "Description": "meals: Lunch & Dinner"  
     },
 
-    "Day 6" :{
+    "Day6" :{
       "Place": "Day 6: Lake Nakuru – Transfer to Maasai Mara",
       "Intro": "After breakfast leave Lake Nakuru for Maasai Mara arriving in time for lunch. You will have a game drive as you head to the camp for lunch. Another game drive will be at 4p.m. Look out for Lion, Cheetah, Elephant, Buffalo.",
       "image": "images/intinery pics/sopa2.jpg",
@@ -167,28 +167,28 @@
       "Description": "Overnight at Lodge on a full board basis"
     },
 
-    "Day 7": {
+    "Day7": {
       "Place": "Day 7: Maasai Mara – Full day game drives",
       "Intro": "This whole day will be spent with morning and afternoon game drives that lead one to some of Africa's largest lion prides, herds of zebra, antelopes, buffaloes, wildebeest, giraffes, cheetahs, and hyenas. In between game drives, there will be picnic lunch along the banks of Mara River. ",
       "image": "images/intinery pics/sopa3.jpg",
       "hotel": "SOPA Lodge",
       "Description": " Overnight at Lodge on a full board basis"
     },
-       "Day 8":{
+       "Day8":{
        "Place": "Day 8: Maasai Mara  – Mombasa ",
       "Intro": "Have breakfast at the camp then check out park and drive to Nairobi arriving in time for lunch. You will be dropped at the airport for a flight to Mombasa. Upon arrival in Mombasa, you will be transferred to the hotel.",
       "image": "images/intinery pics/Masaai-Mara-3.jpg",
       "hotel": "Hotel/Lodge",
       "Description": "meals: Breakfast, Half Board Basis"  
     },
-       "Day 9":{ 
+       "Day9":{ 
        "Place": "Day 9 & 10: Mombasa – Holla Park",
       "Intro": "Visit to holla park Marine Park and Leisure activities",
       "image": "images/intinery pics/Mombasa-3.jpg",
       "hotel": "Booked Beach Hotel",
       "Description": "Meal Plan: Half Board Basis"  
     },
-       "Day 10":{
+       "Day10":{
        "Place": "Day 11: Mombasa – Transfer to Nairobi (By Flight)",
       "Intro": "You will be transferred to the airport morning for your flight to Nairobi. Upon arrival, you will connect with your outbound flight.",
       "image": "images/intinery pics/flight-3.jpg",

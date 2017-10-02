@@ -3,19 +3,20 @@
 <p><a ui-sref="home">Home</a>&nbsp;&gt;&nbsp;Itinerary</p>
 
 
-<div class="artirery row " ng-repeat="e in dataset">
-   
-	<h3> {{e.Package}}</h3>
+<div class="artirery row " ng-repeat="(k,v) in dataset" >
 
-		<h4>{{e.Place}}</h4>
-			<p>{{e.Intro}}</p>
-			<div class="col-md-6 col-sm-12">
-				<img  ng-if="isThereImage(e.Package)" src={{e.image}} height="250" width="500">
+   
+	<h3> {{v.Package}}</h3>
+
+		<h4>{{v.Place}}</h4>
+			<p>{{v.Intro}}</p>
+			<div  class="col-md-6 col-sm-12">
+				<img ng-if="isThereImage(k)" src={{v.image}} height="250" width="500">
 			</div>
 
 			<div class="col-md-6 col-sm-12">
-		     <h5>{{e.hotel}}</h5>
-				<p> {{e.Description}} </p>
+		     <h5>{{v.hotel}}</h5>
+				<p> {{v.Description}} </p>
 			</div>
 		</div>
 
