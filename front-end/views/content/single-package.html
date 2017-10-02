@@ -3,22 +3,24 @@
 <p><a ui-sref="home">Home</a>&nbsp;&gt;&nbsp;Itinerary</p>
 
 
-<div class="artirery" ng-repeat="e in dataset">
+<div class="artirery row " ng-repeat="e in dataset">
    
 	<h3> {{e.Package}}</h3>
 
 		<h4>{{e.Place}}</h4>
 			<p>{{e.Intro}}</p>
 			<div class="col-md-6 col-sm-12">
-				<img src={{e.image}} height="250" width="500">
+				<img  ng-if="isThereImage(e.Package)" src={{e.image}} height="250" width="500">
 			</div>
 
 			<div class="col-md-6 col-sm-12">
-		
-			
-			<h5>{{e.hotel}}</h5>
+		     <h5>{{e.hotel}}</h5>
 				<p> {{e.Description}} </p>
 			</div>
+		</div>
+
+		<div class="contactus">
+  <a ui-sref="contact-us">Book now</a>	
 		</div>
 	
 
