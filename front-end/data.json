@@ -53,7 +53,7 @@
       "Intro": "Following an early breakfast, you’ll catch your last views of the majestic Mount Kilimanjaro as you depart Amboseli viewing game en route to the border of the park. From here turn west to the colorful border town of Namanga, where you will find some unique Maasai beadwork. ",
       "image": "images/intinery pics/amboseli-4.jpg",
       "hotel": "",
-      "Description": " Then turn north along a good tarmac road across the beautiful and seemingly never ending Athi Plains, arriving in Kenya's bustling capital city of Nairobi by mid-da"
+      "Description": " Then turn north along a good tarmac road across the beautiful and seemingly never ending Athi Plains, arriving in Kenya's bustling capital city of Nairobi by mid-day"
     }
 },
 
@@ -79,7 +79,7 @@
     {
       "Place": "Day 3: Aberdares to Samburu ",
       "Intro": "Overnight: Sopa Lodge Samburu Meals: Breakfast, Lunch & Dinner.",
-      "image": "images/intinery pics/samburu-sopa-lodge.jpg",
+      "image": "images/intinery pics/haller-park-mombasa.jpg",
       "hotel": "Sopa Lodge Samburu",
       "Description": "Have breakfast and immediately depart for Samburu National Park. Arrive with a short game drive en route to the camp for lunch. After lunch, relax before a game drive at 4p.m. Samburu Park has unique residents including the Reticulated Giraffe, Grevy’s Zebra, Beisa Oryx and the Blue legged Somali Ostrich"
     },
@@ -184,14 +184,14 @@
        "Day9":{ 
        "Place": "Day 9 & 10: Mombasa – Holla Park",
       "Intro": "Visit to holla park Marine Park and Leisure activities",
-      "image": "images/intinery pics/Mombasa-3.jpg",
+      "image": "images/intinery pics/mombasa-beach.jpg",
       "hotel": "Booked Beach Hotel",
       "Description": "Meal Plan: Half Board Basis"  
     },
        "Day10":{
        "Place": "Day 11: Mombasa – Transfer to Nairobi (By Flight)",
       "Intro": "You will be transferred to the airport morning for your flight to Nairobi. Upon arrival, you will connect with your outbound flight.",
-      "image": "images/intinery pics/flight-3.jpg",
+      "image": "images/intinery pics/mombasa-beach.jpg",
       "hotel": "",
       "Description": ""  
     }

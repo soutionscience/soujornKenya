@@ -109,3 +109,9 @@
   float: center;
 
 }
+.contact-us .social img{
+  display: inline;
+  float: left;
+  margin-left: 8px;
+
+}
